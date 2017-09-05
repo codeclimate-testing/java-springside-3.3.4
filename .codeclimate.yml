@@ -1,10 +1,10 @@
 engines:
-  duplication:
-    enabled: true
-    channel: cronopio
-    config:
-      languages:
-        - java
+#  duplication:
+#    enabled: true
+#    channel: cronopio
+#    config:
+#      languages:
+#        - java
 exclude_paths:
   - "**.py"
   - "**.rb"
