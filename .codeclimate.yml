@@ -1,7 +1,4 @@
 engines:
-  structure:
-    enabled: true
-    channel: java
   duplication:
     enabled: true
     channel: cronopio
